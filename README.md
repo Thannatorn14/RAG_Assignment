@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DocMind — RAG Document Assistant
 
 > **CODEDIVA Assignment #2.2 — AI Engineer**  
@@ -51,7 +52,7 @@ PDF / TXT upload
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/rag-assignment.git
+git clone https://github.com/Thannatorn14/RAG_Assignment.git
 cd rag-assignment
 ```
 
@@ -332,3 +333,6 @@ rag_assignment/
 - **Cloud vector DB** — swap ChromaDB for Supabase pgvector or Pinecone for true cloud persistence
 - **Streaming responses** — stream LLM tokens to frontend instead of waiting for full response
 - **Evaluation metrics** — add RAGAS evaluation (faithfulness, answer relevancy, context precision)
+=======
+# RAG_Assignment
+>>>>>>> 6a03fc8bdaee72b5fa1188332471ac9070048650
