@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+backend/.env
+backend/chroma_db/
+backend/chroma_test_tmp/
+backend/chroma_retriever_test/
+backend/chroma_ret2/
+backend/chroma_ret3/
+*.egg-info/
+dist/
+.venv/
+venv/
+.DS_Store
